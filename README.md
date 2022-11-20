@@ -1,4 +1,3 @@
-# Privacy_VicoWidget_us
 We should respect and protect all users’ privacy. In order to provide you with more accurate and personalized services, this application will use and disclose your personal information in accordance with the provisions of this privacy policy. But this should be treated with diligence and prudence. Except as otherwise provided in this Privacy Policy, this application will not disclose or provide such information to the third party without your prior permission. This privacy policy should be updated from time to time. When you use this application service, you are deemed to have agreed all the contents of this privacy policy. This privacy policy is an integral part of the application service agreement.
 
 1. scope of application
